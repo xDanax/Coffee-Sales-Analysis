@@ -2,8 +2,14 @@
 
 ## Project Overview & Background
 
-Excel sheet:
+View Excel Dashboard Here:
 [Coffee Orders Data Project.xlsx](https://github.com/user-attachments/files/24648525/Coffee.Orders.Data.Project.xlsx)
 
-## Data Analysis - Slide Deck
+## Objective
+
+## Key Insights & Data Visuals
+
+## Recommendations
+
+## Impact
 
