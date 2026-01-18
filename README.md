@@ -59,7 +59,7 @@ These recommendations are expected to:
 - Create a loyalty program that drives sales
 
 ## 👤 Author
-Danalee Smith
+**Danalee Smith**
 
 Data Analyst
 
