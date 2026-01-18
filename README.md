@@ -16,7 +16,7 @@ View Interactive Excel Dashboard Here:
 ## 📈 Key Insights & Data Visuals
 
 ### Table 1: Sizes x Roast Type
-<img width="800" height="380" alt="image" src="https://github.com/user-attachments/assets/750f77f9-e484-4ff3-8f5f-f686e1233924" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/750f77f9-e484-4ff3-8f5f-f686e1233924" />
 
 - **Light Roast dominate total sales**, bringing in ~$17.3k in revenue across all sizes while Dark and Medium generate ~$13.2k and ~$14.6k respectively.
 
@@ -27,7 +27,7 @@ View Interactive Excel Dashboard Here:
   
 ### Table 2: Loyalty Card x Country
 
-<img width="800" height="251" alt="Screenshot 2026-01-17 203623" src="https://github.com/user-attachments/assets/3ea3ed80-c6a8-490e-86a3-5dab7ec17afb" />
+<img width="600" height="200" alt="Screenshot 2026-01-17 203623" src="https://github.com/user-attachments/assets/3ea3ed80-c6a8-490e-86a3-5dab7ec17afb" />
 
 - **The U.S. is the primary revenue driver** regardless of loyalty status
    - United States total: $35,639 which is ~79% of total revenue
