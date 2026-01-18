@@ -9,9 +9,9 @@ View Excel Dashboard Here:
 Identify which customer segments, product types, and regions drive the most revenue in order to optimize product offerings, loyalty strategy, and marketing focus.
 
 Key business questions:
-- Which countries and customers contribute the highest sales?
-- How do roast type, package size, and loyalty membership affect revenue?
-- Where should the business focus promotions and inventory to increase sales?
+- Which coffee beans, roast types and package sizes generate the highest sales, and which underperform?
+- Which countries should the business prioritize for growth and marketing investment?
+- Is the loyalty program effective in increasing customer spend?
 
 ## Key Insights & Data Visuals
 
